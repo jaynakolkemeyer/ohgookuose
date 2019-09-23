@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kuchootho.stylus-lang.com/sitemap.xml
